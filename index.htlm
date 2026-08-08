@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Leo AI Test Helper</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; }
+    code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Leo AI Test Helper</h1>
+  <p>This is a harmless test file for security research on Brave Leo AI.</p>
+  <p>The script is available at:</p>
+  <script>alert("HI FROM GITHUB")</script>
+  <p>Open the browser console after the script runs to see the confirmation message.</p>
+</body>
+</html>
